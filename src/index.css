@@ -1,0 +1,8 @@
+*{
+    color: red;
+}
+
+#map{
+    border: 1px solid #000;
+    height: 100vh;
+}
